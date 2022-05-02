@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Day2Assignment</string>
+    <string name="add_edit_contact">Add/ Edit Contact</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="add">Add</string>
+</resources>
